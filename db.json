@@ -1,0 +1,15 @@
+{
+  "users-534-0002": 
+  {
+    "id": "U1",
+    "customerName": "三菱　太郎",
+    "customerNameKana": "ミツビ シタロウ　バツバツシヨウテン",
+    "birthDate": "1980-05-05",
+    "gender": "2",
+    "phoneNumber1": "080-5678-0123",
+    "address": {
+      "postalCode": "534-0002",
+      "domesticAddress": "大阪市都島区　大東町　1丁目-1-1-123"
+    }
+  }
+}
