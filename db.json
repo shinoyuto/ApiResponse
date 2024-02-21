@@ -1,15 +1,71 @@
 {
   "users-534-0002": 
-  {
-    "id": "U1",
-    "customerName": "三菱　太郎",
-    "customerNameKana": "ミツビ シタロウ　バツバツシヨウテン",
-    "birthDate": "1980-05-05",
-    "gender": "2",
-    "phoneNumber1": "080-5678-0123",
-    "address": {
-      "postalCode": "534-0002",
-      "domesticAddress": "大阪市都島区　大東町　1丁目-1-1-123"
+    {
+      "id":"U1",
+      "customerName": "三菱　太郎",
+      "customerNameKana": "ミツビ シタロウ　バツバツシヨウテン",
+      "birthDate": "1980-05-05",
+      "gender": "2",
+      "phoneNumber1": "080-5678-0123",
+      "address": {
+        "postalCode": "534-0002",
+        "domesticAddress": "大阪市　 都島区大東町　 1丁目-1-1-123"
+      }
     }
-  }
+   ,
+   "users-194-0045": 
+    {
+      "id":"U2",
+      "customerName": "三菱　太郎",
+      "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
+      "birthDate": "1980-05-05",
+      "gender": "2",
+      "phoneNumber1": "080-5678-0123",
+      "address": {
+        "postalCode": "194-0045",
+        "domesticAddress": "東京 都　 町田市 　成瀬　1丁目-1-1-123"
+      }
+    }
+  ,
+  "users-272-0822": 
+    {
+      "id":"U3",
+      "customerName": "三菱　太郎",
+      "customerNameKana": "ミツビ シタロウ　バツバツシヨウテン",
+      "birthDate": "1980-05-05",
+      "gender": "1",
+      "phoneNumber1": "080-5678-0123",
+      "address": {
+        "postalCode": "272-0822",
+        "domesticAddress": "千葉 県　市川市　八幡　1丁目-1-1-123"
+      }
+    }
+   ,
+  "users-856-0017": 
+    {
+      "id":"U4",
+      "customerName": "三菱　太郎",
+      "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
+      "birthDate": "1980-05-05",
+      "gender": "1",
+      "phoneNumber1": "080-5678-0123",
+      "address": {
+        "postalCode": "856-0017",
+        "domesticAddress": "長崎 県　大村市　池 田　1丁目-1-1-123"
+      }
+    }
+   ,
+  "users-530-0057": 
+    {
+      "id":"U5",
+	  "customerName": "三菱　太郎",
+      "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
+      "birthDate": "1980-05-05",
+      "gender": "1",
+      "phoneNumber1": "080-5678-0123",
+      "address": {
+        "postalCode": "530-0057",
+        "domesticAddress": "大阪 市　 北区 　曽根崎2-3-5　梅新第一生命ビルディング"
+      }
+    }
 }
