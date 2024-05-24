@@ -12,7 +12,7 @@
     "amount": "12345678900",
     "tankingNumber": "00123",
     "tankingBalance": "1000000"
-  }
+  },
   
   "company-deposit-transactions": 
   {
@@ -27,7 +27,7 @@
     "amount": "12345678900",
     "tankingNumber": "00123",
     "tankingBalance": "0"
-  }
+  },
   
   "company-charge-transactions": 
   {
@@ -42,7 +42,7 @@
     "amount": "12345678900",
     "tankingNumber": "00123",
     "tankingBalance": "1000000"
-  }
+  },
 
   "user-deposit-transactions": 
   {
