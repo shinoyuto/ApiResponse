@@ -1,5 +1,5 @@
 {
-  "user-blank-birthDate": 
+  "user-blank-birthDate": [
     {
       "customerName":"佐藤　一郎",
       "customerNameKana":"サトウ　イチロウ",
@@ -11,4 +11,5 @@
       "address":{"postalCode":"156-0055",
       "domesticAddress":"東京都　世田谷区　７－１－８号棟７１４号室"} 
     }
+  ]
 }
